@@ -1,5 +1,6 @@
 .d2h-diff-table{
   color: black;
+  border-color: rgba(0,0,0,0);
 }
 .d2h-wrapper {
   text-align: left;
